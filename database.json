@@ -1,0 +1,16 @@
+{
+    "namechecker": "activated",
+    "avatarchecker": "deactivated",
+    "avatarurlchecker": "activated",
+    "datechecker": "activated",
+    "guildcountchecker": "activated",
+    "guildnamechecker": "activated",
+    "tokenidchecker": "activated",
+    "biochecker": "activated",
+    "dmchecker": "activated",
+    "languagechecker": "activated",
+    "nsfwchecker": "activated",
+    "friendchecker": "activated",
+    "mindate": "29-10-1938",
+    "maxdate": "01-01-2028"
+}
